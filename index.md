@@ -6,3 +6,12 @@
 
 
 ![Cid Kagenou](https://i.pinimg.com/736x/4a/87/f2/4a87f28343f4376ee239fefd61448ac6.jpg)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
